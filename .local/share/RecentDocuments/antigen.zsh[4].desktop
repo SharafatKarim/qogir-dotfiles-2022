@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-x-matlab
+Name=antigen.zsh
+Type=Link
+URL[$e]=file:$HOME/antigen.zsh
+X-KDE-LastOpenedWith=org.kde.kate

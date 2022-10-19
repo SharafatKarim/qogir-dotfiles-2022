@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Qogir Aurorae Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298366</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>75</rating>
+  <downloads>24353</downloads>
+  <installedfile>/home/qogir/.local/share/aurorae/themes/Qogir/*</installedfile>
+  <installedfile>/home/qogir/.local/share/aurorae/themes/Qogir-dark/*</installedfile>
+  <installedfile>/home/qogir/.local/share/aurorae/themes/Qogir-dark-circle/*</installedfile>
+  <installedfile>/home/qogir/.local/share/aurorae/themes/Qogir-circle/*</installedfile>
+  <installedfile>/home/qogir/.local/share/aurorae/themes/Qogir-light-circle/*</installedfile>
+  <installedfile>/home/qogir/.local/share/aurorae/themes/Qogir-light/*</installedfile>
+  <id>1298366</id>
+  <releasedate>2022-03-24</releasedate>
+  <summary>&lt;strong> Qogir KDE Aurorae Theme &lt;/strong>&lt;br />
+&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+ For better looking please use this pack with:&lt;br />
+&lt;br />
+&lt;strong>１.&lt;/strong>--Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1298366/95267f38fd3b616b960398c641136104c819ab0d10eddee38071a9b5fea5a9088e01.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1298366/95267f38fd3b616b960398c641136104c819ab0d10eddee38071a9b5fea5a9088e01.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDgwOTUxOTUiLCJvIjoiMSIsInMiOiIzYjg2MmFkNTgyZDQzYzJmNjE4MDYzYjdjYjRkMzFlZGYyYTk0ZGJjYTUzZWU2ZDY2YWFhMmEwOWYzMGU3MzYzYmUxNjhjZmVhNThlNzhmZDgyN2M5MWM5YmJkNTJhYjZmZTEyMjU4MjMzOGE2YzE0OTg2ZjIzZWY0MWI0NThlYiIsInQiOjE2NjU4MTk4MTYsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.qOt4ClLseYRIO3TpoAqkB789vUOo4u7Kpt1Xrzz9VSg/Qogir.tar.xz</payload>
+  <tags>unix,theme,original-product,plasma,linux,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

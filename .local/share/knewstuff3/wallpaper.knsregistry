@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Qogir wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1308425</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>59766</downloads>
+  <installedfile>/home/qogir/.local/share/wallpapers/Qogir-dark/*</installedfile>
+  <id>1308425</id>
+  <releasedate>2020-07-16</releasedate>
+  <summary>Qogir wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1308425/5231a5ef1a42cb0ef84b689b39937b7ae95c1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1308425/5231a5ef1a42cb0ef84b689b39937b7ae95c1.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ5MTA3OTQiLCJvIjoiMSIsInMiOiI2MGE2ZGEzYWZkYjVmNDA3M2I2MzZhMzBkMDk2MjZiNjllMDUyNzg4ZjMyOTVjMDNlMTdjZWE0N2VkNjg0YTU3YTE1OGU5NWViOTUxMjVmNzEzOGM0OGU3NGI3OWE5NTFlNjA1MzI0YWQzMzYxNWU3YzE2YTJhMmI5ZjhiOGQ0NSIsInQiOjE2NjU4MTk4NDMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.ONZrUsQcJKKs67SHe1vlw7xyz_0qvRcqUTg2qixoekE/01-Qogir-dark.tar.xz</payload>
+  <tags>kde,gplv3,plasma,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

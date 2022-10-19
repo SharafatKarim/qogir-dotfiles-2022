@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=zshrc
+Type=Link
+URL[$e]=file:$HOME/zshrc
+X-KDE-LastOpenedWith=org.kde.kate

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="463">
+  <name>Event Calendar</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Zren</author>
+  <homepage>https://store.kde.org/p/998901</homepage>
+  <licence></licence>
+  <version>76</version>
+  <rating>90</rating>
+  <downloads>25648</downloads>
+  <installedfile>/home/qogir/.local/share/plasma/plasmoids/org.kde.plasma.eventcalendar</installedfile>
+  <id>998901</id>
+  <releasedate>2022-05-03</releasedate>
+  <summary>&lt;strong>Note: The widget's Google Calendar Sync is disabled v70 and below. Please update to v71.&lt;/strong>&lt;br />
+&lt;a href="https://github.com/Zren/plasma-applet-eventcalendar/issues/177" target="_blank" rel="nofollow">https://github.com/Zren/plasma-applet-eventcalendar/issues/177&lt;/a>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/39/56/998901/687cb198fde24cf7a0066443903d69a89325.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/39/56/998901/687cb198fde24cf7a0066443903d69a89325.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTE1ODkwMDEiLCJvIjoiMSIsInMiOiIwYjhlY2IzMjBkYzg3ZjVlM2VkM2IxYTg3MDZlZWVlZWEzNGE0YmFlMzIyMmNmMWQwYWMwM2ExY2I5ZmEwN2U4YTcyODA3MGY5NmFkODUzOTQwYzQ0ZGY5OThjYmQwZGM4MDVjZjczMzA4NWI5NjgwMGM2OTI5OTI3ZDY4YmJkMyIsInQiOjE2NjU4MjQ4MjIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.FaFc0asS64h_X4sepmAcT34GhpXrlvKFBtxDSmAHhVw/eventcalendar-v76-plasma5.13.plasmoid</payload>
+  <tags>plasma,plasma##majorversion=5,linux,gplv2-later,kde,extension,calendar,widget,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

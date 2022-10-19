@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/qogir/Downloads/Qogir.tar.xz" added="2022-10-15T08:10:03.704000Z" modified="2022-10-15T08:10:22.644000Z" visited="2022-10-15T08:10:22.644000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.falkon" exec="falkon %u %u" modified="2022-10-15T08:10:03.704000Z" count="1"/>
+        <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2022-10-15T08:10:22.644000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/.zshrc" added="2022-10-15T08:29:30.150000Z" modified="2022-10-15T09:46:08.697000Z" visited="2022-10-15T09:46:08.697000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-10-15T09:46:08.697000Z" count="46"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/antigen.zsh" added="2022-10-15T08:29:35.170000Z" modified="2022-10-15T08:44:06.603000Z" visited="2022-10-15T08:44:06.603000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-matlab"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-10-15T08:44:06.603000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/FiraCode_2.zip" added="2022-10-15T08:47:25.398000Z" modified="2022-10-15T08:47:25.398000Z" visited="2022-10-15T08:47:25.398000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.falkon" exec="falkon %u %u" modified="2022-10-15T08:47:25.398000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/HowToInstall.txt" added="2022-10-15T08:48:10.786000Z" modified="2022-10-15T08:48:11.237000Z" visited="2022-10-15T08:48:11.237000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-10-15T08:48:11.237000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/ttf/FiraCode-Bold.ttf" added="2022-10-15T08:48:44.213000Z" modified="2022-10-15T08:48:44.213000Z" visited="2022-10-15T08:48:44.213000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2022-10-15T08:48:44.213000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/ttf/FiraCode-Light.ttf" added="2022-10-15T08:48:44.314000Z" modified="2022-10-15T08:48:44.314000Z" visited="2022-10-15T08:48:44.314000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2022-10-15T08:48:44.314000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/ttf/FiraCode-Medium.ttf" added="2022-10-15T08:48:44.416000Z" modified="2022-10-15T08:48:44.416000Z" visited="2022-10-15T08:48:44.416000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2022-10-15T08:48:44.416000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/ttf/FiraCode-Regular.ttf" added="2022-10-15T08:48:44.517000Z" modified="2022-10-15T08:48:44.517000Z" visited="2022-10-15T08:48:44.517000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2022-10-15T08:48:44.517000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/Downloads/ttf/FiraCode-Retina.ttf" added="2022-10-15T08:48:44.610000Z" modified="2022-10-15T08:48:44.610000Z" visited="2022-10-15T08:48:44.610000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2022-10-15T08:48:44.610000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/.fonts.conf" added="2022-10-15T08:52:04.187000Z" modified="2022-10-15T08:52:04.187000Z" visited="2022-10-15T08:52:04.187000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u %u" modified="2022-10-15T08:52:04.187000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/zshrc" added="2022-10-15T09:07:35.066000Z" modified="2022-10-15T09:07:35.449000Z" visited="2022-10-15T09:07:35.449000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-10-15T09:07:35.449000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qogir/.zsh_history" added="2022-10-15T09:08:18.579000Z" modified="2022-10-15T09:08:18.928000Z" visited="2022-10-15T09:08:18.928000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-10-15T09:08:18.928000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

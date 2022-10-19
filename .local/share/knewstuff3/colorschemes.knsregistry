@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Qogir colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298431</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>73</rating>
+  <downloads>32961</downloads>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirDark.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirUbuntu.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/Qogir.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirManjaroLight.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirManjaroDark.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirLight.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirUbuntuDark.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirUbuntuLight.colors</installedfile>
+  <installedfile>/home/qogir/.local/share/color-schemes/QogirManjaro.colors</installedfile>
+  <id>1298431</id>
+  <releasedate>2021-07-07</releasedate>
+  <summary>&lt;strong> Qogir KDE Plasma Theme &lt;/strong>&lt;br />
+&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+For better looking please use this with:&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> --Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1298431/b92f3a740ccb9dce6b477913cadb1efa730a44d4bfa5841552ece1aacca6bd09bcd9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1298431/b92f3a740ccb9dce6b477913cadb1efa730a44d4bfa5841552ece1aacca6bd09bcd9.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU2MzcxOTYiLCJvIjoiMSIsInMiOiI2ZDZiZjY4MmZhNjljYzI4MmI5YzBhNWFkNjU3ZTM0Zjg5MDM1YzAwNTU1YWY4MmI3YmFlOTg1Mzg2ZmIyN2M4OGNlNzczMjlkNDI3Y2VkNmNhM2MwOTdlM2NlMjc5ZjY5MzBlN2IyZTAyOTQ2ZjZlOGRhY2NjNmM3ZjU4ZWI3MCIsInQiOjE2NjU4MTk4MDEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.Zk6b2D8nQHsNtBVd-PHtw3KOZwAt-Dp-uzHarrjK5r4/color-schemes.tar.gz</payload>
+  <tags>linux,kde,gplv3,colorscheme,plasma,original-product,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
