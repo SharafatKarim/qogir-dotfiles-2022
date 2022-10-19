@@ -1,0 +1,6 @@
+2022/10/15-14:28:13.959 1d64 Reusing MANIFEST /home/qogir/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2022/10/15-14:28:13.959 1d64 Recovering log #3
+2022/10/15-14:28:13.959 1d64 Reusing old log /home/qogir/.config/falkon/profiles/default/Local Storage/leveldb/000003.log 
+2022/10/15-15:28:18.948 395e Level-0 table #5: started
+2022/10/15-15:28:19.014 395e Level-0 table #5: 14976 bytes OK
+2022/10/15-15:28:19.053 395e Delete type=0 #3

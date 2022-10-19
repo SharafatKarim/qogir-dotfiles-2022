@@ -1,0 +1,26 @@
+[
+    {
+        "enabled": true,
+        "id": "VGA-1",
+        "metadata": {
+            "name": "VGA-1"
+        },
+        "mode": {
+            "refresh": 59.946022033691406,
+            "size": {
+                "height": 900,
+                "width": 1600
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]

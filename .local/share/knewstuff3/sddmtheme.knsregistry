@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Qogir sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1311077</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>73178</downloads>
+  <installedfile>/tmp/Qogir.tar.xz</installedfile>
+  <id>1311077</id>
+  <releasedate>2020-05-06</releasedate>
+  <summary>Qogir sddm theme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1311077/56422790e26dae480ee6a160ba643872250f1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1311077/56422790e26dae480ee6a160ba643872250f1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg3NjA3MjEiLCJvIjoiMSIsInMiOiJlZTk2OTNjMGZhNjgyZDRlMWVjZTU1OTEwZWVjYTcxNDQ4NzYxZGUwODY1MTgzZmFhMDIyNTNkODViMTVkNGQ5OGZmODdlYmVjZDI1NmVjNDJlM2RkNzI4NThiNzY1MmQ3NzVmMTZiZDBlZTYwMWU0MWVkNjhjMWZmZGY5MzlhNCIsInQiOjE2NjU4MTk4NDgsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.fhO4Y43hu6qe_3OCquOxc0p3IGVioJepi2oSN6Vgvkg/Qogir.tar.xz</payload>
+  <tags>unix,original-product,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 exec:///usr/bin/kvantummanager,1 exec:///usr/bin/falkon
+
+[PlasmaRunnerManager][History]
+e2e2e2ad-5b71-466e-8ea8-52f595fb06b1=fal,kv

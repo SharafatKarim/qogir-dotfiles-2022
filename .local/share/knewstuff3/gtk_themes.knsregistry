@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Qogir-manjaro</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1327926</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>81</rating>
+  <downloads>12047</downloads>
+  <installedfile>/home/qogir/.themes/Qogir-manjaro-dark/*</installedfile>
+  <id>1327926</id>
+  <releasedate>2020-03-31</releasedate>
+  <summary>Qogir is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Cinnamon, Mate, etc.&lt;br />
+---------------------------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>&lt;br />
+Qogir icon theme: &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1327926/ebb819fc779adaf237c1a72a79730dc46d21.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1327926/ebb819fc779adaf237c1a72a79730dc46d21.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODU2MzA3MTYiLCJvIjoiMSIsInMiOiI5YjI4MzM1ZTEyZWU0ODM0Mzg0YmMwZTlkZGMyYWIyZmE2MGE0MThjOTg0YzhkZWQ5NWVkNTEzNThlYzVlY2NjZDQyMmJjOWMwOWY1NjgzMzdiNzBlODIwZjVmYTEzZjEzOTViN2Q1MmU0OGQyZGZmMGExZjg3ZjI3ZmZjYWM3ZiIsInQiOjE2NjU4MjUwOTYsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.VMr_HO-KUCYbWkoYegq6c_ggfAEtLYujTdSVtI3bjJw/Qogir-manjaro-dark.tar.xz</payload>
+  <tags>original-product,linux,gnome,gplv3,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

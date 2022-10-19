@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Breeze-QogirDark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>nigelwarning</author>
+  <homepage>https://store.kde.org/p/1469767</homepage>
+  <licence></licence>
+  <version>v1.0</version>
+  <rating>50</rating>
+  <downloads>4503</downloads>
+  <installedfile>/home/qogir/.local/share/konsole/Breeze-Qogir.colorscheme</installedfile>
+  <id>1469767</id>
+  <releasedate>2021-01-11</releasedate>
+  <summary>A theme based on Breeze to match the Qogir-Dark colors.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/57/90/52/1469767/d4c577ed902cdede944a94d2f605c3afbeb2cf26137c6a9cc06ad746aa538e6c157d1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/57/90/52/1469767/d4c577ed902cdede944a94d2f605c3afbeb2cf26137c6a9cc06ad746aa538e6c157d1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTA0MTE4NDAiLCJvIjoiMSIsInMiOiJmNWI0YmY4NDIxNzYwZGQ0MjM4MzlhYTUzMzRiZjA3M2RkN2NkZjg3MzE0Y2U3NmRkMTFhYWZiMjljZGY5N2QxYzgzNTQzMjcyZjBiMWYyMWYzODY2Y2M4MWRhMzU1OTQxYTNjODZiMGM4OGE0ODMzYzI2MzNhNzA1MjU3MmQyYSIsInQiOjE2NjU4MjczNjEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTI2LjEzLjIwIn0.OMydHYoJh5R7CuNIbIXuDffWgjfEISR1duNvtcovjbQ/Breeze-Qogir.colorscheme</payload>
+  <tags>efi,gplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

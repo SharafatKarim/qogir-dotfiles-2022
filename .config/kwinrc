@@ -1,0 +1,17 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup
+
+[Desktops]
+Id_1=551c6d99-3bfa-4fd5-a7f4-9f0df4e5e5d0
+Id_2=5cca287f-7472-4b95-b7ad-87c15eafb9b5
+Id_3=baa9d439-5649-45cb-9c37-89d0e3f5c659
+Id_4=2f176604-686c-4398-a2a4-9b865ffa23a1
+Name_2=New Desktop
+Name_3=New Desktop
+Name_4=New Desktop
+Number=4
+Rows=4
+
+[org.kde.kdecoration2]
+BorderSize=None
+BorderSizeAuto=false
